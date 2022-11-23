@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body {
+    margin: 0;
+     background-color: #1B244A;
+    
+}
+
+.container {
+   
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url('https://images.unsplash.com/photo-1542652694-40abf526446e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-repeat: no-repeat
+    width:100vw ;
+    height: 100vh;
+    align-content: center;
+}
+
+
+#home{
+  
+  
+}
+
+#guest{
+   
+}
+
+#home-buttons{   
+width: auto;
+height: 45px;
+top: 271px;
+
+align-content: center;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+}
+
+#guest-buttons{
+width: auto;
+height: 45px;
+top: 271px;
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+button{
+font-family: Orbitron;
+color:#9AABD8;
+box-sizing: border-box;
+width: 45px;
+height: 45px;
+top: 271px;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;
+}
+
+ h2
+{
+width: 117px;
+height: 120px;
+left: 355px;
+top: 125px;
+
+font-family: 'Orbitron';
+
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+text-align: center;
+color: #F94F6D;
+}
+
+
+
+h3{
+    
+width: auto;
+height: 36px;
+top: 68px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+text-align: center;
+color: #EEEEEE;
+}
+
+
+#home-timer{
+display: flex;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+align-items: center;
+background: #080001;
+border-radius: 5px;
+margin: 26px;
+justify-content: center;
+}
+
+#guest-timer{
+display: flex;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+align-items: center;
+background: #080001;
+border-radius: 5px;
+margin: 26px;
+justify-content: center;
+}
+
