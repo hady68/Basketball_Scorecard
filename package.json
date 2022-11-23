@@ -7,7 +7,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "--no-scope-hoist",
+    "build": "vite-build",
     "preview": "vite preview"
   }
 }
