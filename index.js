@@ -1,4 +1,4 @@
-let homeScoreb1 = document.getElementById("home1")
+// let homeScoreb1 = document.getElementById("home1")
 let homeStoreEl =document.getElementById("home-score")
 let guestStoreEl =document.getElementById("guest-score")
 let homeScore = 0
